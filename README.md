@@ -1,0 +1,1 @@
+# Pneumonia-detection-from-X-Ray-using-AWS-Rekognition
